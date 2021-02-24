@@ -29,7 +29,7 @@ As tecnologias utilizadas nesta Aplicação são:
 ## Como usar
 
 ### Clone do repositório
-Para baixar o projeto em sua máquina rode o comando abaixo no terminal ou faça o [download](https://github.com/mrdouglasmorais/NLW-4-Moveit-NextJs/archive/main.zip).
+Para baixar o projeto em sua máquina rode o comando abaixo no terminal ou faça o [download](https://github.com/mrdouglasmorais/NLW-4-Moveit-NextJs/archive/master.zip).
 
 ```bash
 git clone https://github.com/mrdouglasmorais/NLW-4-Moveit-NextJs.git
