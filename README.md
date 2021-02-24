@@ -61,3 +61,5 @@ https://localhost:3000
 
 ## LICENÇA
 Esse projeto utiliza a [LICENÇA](../LICENSE) MIT.
+
+## By Douglas Morais
