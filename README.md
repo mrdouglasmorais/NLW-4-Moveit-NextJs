@@ -26,6 +26,9 @@ As tecnologias utilizadas nesta Aplicação são:
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Yarn](https://yarnpkg.com/)
 
+## Aplicação publicada:
+[clique aqui](https://nlw-4-moveit-next-js.vercel.app/)
+
 ## Como usar
 
 ### Clone do repositório
